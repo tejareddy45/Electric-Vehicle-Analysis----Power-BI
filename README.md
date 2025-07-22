@@ -24,10 +24,10 @@
 
 <a href = "https://github.com/tejareddy45/Electric-Vehicle-Analysis----Power-BI/blob/main/Electric%20Vechicle.pbix"> Electric Vehicle Report </a>
 
-### Page 1 Insights
+## Page 1 Insights  (Market Overview)
 <img width="1311" height="739" alt="Screenshot 2025-07-22 104807" src="https://github.com/user-attachments/assets/b9121a5b-37d8-4ccf-b3f7-0c8b52cfd334" />
 
-## Key Market Insights
+### Key Market Insights
 1. Market Dominance
   
    - Battery Electric Vehicles (BEVs) represent 72.3% of the market, showing strong consumer preference for fully electric vehicles over plug-in hybrids.
@@ -44,10 +44,10 @@
    
    - Tesla maintains market leadership with 23.5% share, followed by established manufacturers rapidly expanding their EV portfolios.
 
-### Page 2 Insights
+## Page 2 Insights  (Range Analysis)
 <img width="1313" height="728" alt="Screenshot 2025-07-22 104826" src="https://github.com/user-attachments/assets/1d28ab43-15de-4f28-87fe-1c7a37d89486" />
 
-## Range Analysis Insights
+### Range Analysis Insights
 
 1. Technology Progress
    
@@ -61,10 +61,10 @@
    
    - Luxury brands like Lucid and Tesla lead in range capabilities, with some models exceeding 480 miles per charge.
 
-### Page 3 Insights
+## Page 3 Insights  (Trends & Regions)
 <img width="1307" height="735" alt="Screenshot 2025-07-22 104908" src="https://github.com/user-attachments/assets/13da6898-c2fd-4a6a-abbb-cc21d9d48ff2" />
 
-## Geographic & Temporal Insights
+### Geographic & Temporal Insights
 1. California Leadership
    
    - California leads with 42.6% of all EV registrations, driven by state incentives and environmental policies.
