@@ -44,7 +44,38 @@
    
    - Tesla maintains market leadership with 23.5% share, followed by established manufacturers rapidly expanding their EV portfolios.
 
+### Page 2 Insights
+<img width="1313" height="728" alt="Screenshot 2025-07-22 104826" src="https://github.com/user-attachments/assets/1d28ab43-15de-4f28-87fe-1c7a37d89486" />
 
+## Range Analysis Insights
+
+1. Technology Progress
+   
+   - Average EV range has increased by 58% since 2018, from 180 to 285 miles, demonstrating rapid battery technology advancement.
+
+2. Range Sweet Spot
+   
+   - 75.5% of vehicles fall within the 201-400 mile range, indicating this is the optimal balance between cost, weight, and utility.
+
+3. Premium Performance
+   
+   - Luxury brands like Lucid and Tesla lead in range capabilities, with some models exceeding 480 miles per charge.
+
+### Page 3 Insights
+<img width="1307" height="735" alt="Screenshot 2025-07-22 104908" src="https://github.com/user-attachments/assets/13da6898-c2fd-4a6a-abbb-cc21d9d48ff2" />
+
+## Geographic & Temporal Insights
+1. California Leadership
+   
+   - California leads with 42.6% of all EV registrations, driven by state incentives and environmental policies.
+
+2. Exponential Growth
+   
+    - Total EV registrations have grown 522% since 2018, with BEVs showing particularly strong acceleration.
+
+3. Seasonal Patterns
+   
+    - Q2 and Q3 show peak registration activity, likely influenced by tax incentive timing and model year releases.
 ## Main Insights
 - California leads EV adoption by a large margin.
 
