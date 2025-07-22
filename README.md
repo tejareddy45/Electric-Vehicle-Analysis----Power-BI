@@ -38,7 +38,7 @@
 
 3. Growth Trajectory
     
-  - 12.5% year-over-year growth in total registrations indicates accelerating EV adoption across all vehicle types.
+   - 12.5% year-over-year growth in total registrations indicates accelerating EV adoption across all vehicle types.
 
 4. Brand Leadership
    
