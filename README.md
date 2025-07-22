@@ -30,19 +30,19 @@
 ## Key Market Insights
 1. Market Dominance
   
-Battery Electric Vehicles (BEVs) represent 72.3% of the market, showing strong consumer preference for fully electric vehicles over plug-in hybrids.
+   - Battery Electric Vehicles (BEVs) represent 72.3% of the market, showing strong consumer preference for fully electric vehicles over plug-in hybrids.
 
 2. Range Advancement
    
-Average electric range of 285 miles demonstrates significant technological progress, addressing range anxiety concerns.
+   - Average electric range of 285 miles demonstrates significant technological progress, addressing range anxiety concerns.
 
 3. Growth Trajectory
     
-12.5% year-over-year growth in total registrations indicates accelerating EV adoption across all vehicle types.
+  - 12.5% year-over-year growth in total registrations indicates accelerating EV adoption across all vehicle types.
 
 4. Brand Leadership
    
-Tesla maintains market leadership with 23.5% share, followed by established manufacturers rapidly expanding their EV portfolios.
+   - Tesla maintains market leadership with 23.5% share, followed by established manufacturers rapidly expanding their EV portfolios.
 
 
 ## Main Insights
