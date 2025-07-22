@@ -8,17 +8,17 @@
 - To help users explore EV data through an intuitive Power BI dashboard.
 
 ## Key Outcomes
-1 Built an interactive dashboard covering:
+1. Built an interactive dashboard covering:
 
-      - EV adoption over time
+   - EV adoption over time
 
-      - Top vehicle makes and models
+   - Top vehicle makes and models
 
-      - State-wise EV registration and charging types
+   - State-wise EV registration and charging types
 
-      - Fuel type breakdown and comparison
+   - Fuel type breakdown and comparison
 
-- Designed clean and filterable visuals for quick insights.
+2. Designed clean and filterable visuals for quick insights.
 
 ## Power BI Report
 
@@ -26,21 +26,23 @@
 
 ### Page 1 Insights
 <img width="1311" height="739" alt="Screenshot 2025-07-22 104807" src="https://github.com/user-attachments/assets/b9121a5b-37d8-4ccf-b3f7-0c8b52cfd334" />
-### Key Market Insights
 
+## Key Market Insights
 1. Market Dominance
   
-- Battery Electric Vehicles (BEVs) represent 72.3% of the market, showing strong consumer preference for fully electric vehicles over plug-in hybrids.
+Battery Electric Vehicles (BEVs) represent 72.3% of the market, showing strong consumer preference for fully electric vehicles over plug-in hybrids.
 
 2. Range Advancement
    
-- Average electric range of 285 miles demonstrates significant technological progress, addressing range anxiety concerns.
+Average electric range of 285 miles demonstrates significant technological progress, addressing range anxiety concerns.
 
- 3. Growth Trajectory
-- 12.5% year-over-year growth in total registrations indicates accelerating EV adoption across all vehicle types.
+3. Growth Trajectory
+    
+12.5% year-over-year growth in total registrations indicates accelerating EV adoption across all vehicle types.
 
 4. Brand Leadership
-- Tesla maintains market leadership with 23.5% share, followed by established manufacturers rapidly expanding their EV portfolios.
+   
+Tesla maintains market leadership with 23.5% share, followed by established manufacturers rapidly expanding their EV portfolios.
 
 
 ## Main Insights
