@@ -61,10 +61,10 @@
    
    - Luxury brands like Lucid and Tesla lead in range capabilities, with some models exceeding 480 miles per charge.
 
-## Page 3 Insights  (Trends & Regions)
+### Page 3 Insights  (Trends & Regions)
 <img width="1307" height="735" alt="Screenshot 2025-07-22 104908" src="https://github.com/user-attachments/assets/13da6898-c2fd-4a6a-abbb-cc21d9d48ff2" />
 
-### Geographic & Temporal Insights
+## Geographic & Temporal Insights
 1. California Leadership
    
    - California leads with 42.6% of all EV registrations, driven by state incentives and environmental policies.
